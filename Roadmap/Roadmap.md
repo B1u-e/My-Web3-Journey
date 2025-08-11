@@ -1,9 +1,5 @@
 ## 区块链与 Web3 学习路线图
 
-![](./img/Roadmap.png)
-
-</details>
-
 ## 区块链与 Web3 基础
 
 ### 区块链基础知识
