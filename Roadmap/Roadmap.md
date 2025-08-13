@@ -86,13 +86,13 @@
 
 #### 合约测试
 
-**Hardhat**
+**[Hardhat](https://learnblockchain.cn/docs/hardhat/getting-started/)**
 
 - [单元测试](https://ethereum.org/zh/developers/docs/smart-contracts/testing/#automated-testing-for-smart-contracts)
 - [代码覆盖率](https://github.com/sc-forks/solidity-coverage)
 - [集成测试](https://ethereum.org/zh/developers/docs/smart-contracts/testing/#integration-testing-for-smart-contracts)
 
-**Foundry**
+**[Foundry](https://learnblockchain.cn/docs/foundry/i18n/zh/index.html)**
 
 - [模糊测试](https://learnblockchain.cn/docs/foundry/i18n/zh/forge/fuzz-testing.html)
 - [不变性测试](https://rareskills.io/post/invariant-testing-solidity)
