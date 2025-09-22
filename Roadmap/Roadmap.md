@@ -185,7 +185,7 @@
 - [WTF Academy](https://wtf.academy/) - 从 Solidity 基础到进阶的课程
 - [OpenZeppelin](https://docs.openzeppelin.com/contracts/4.x/)
 - [Smart Contract Engineer](https://www.smartcontract.engineer/)
-- [Coursera Blockchain Basics](https://www.coursera.org/learn/blockchain-basics) - Coursera 上的区块链基础课程(推荐)
+- [Coursera Blockchain Basics](https://www.coursera.org/learn/blockchain-basics) - Coursera 上的区块链基础课程
 - [CryptoZombies](https://cryptozombies.io/zh/course/) - 加密僵尸游戏-通过游戏形式学习 Solidity
 - [Web3 University](https://www.web3.university/find) - 内容全面的 Web3 在线学习平台
 - [LearnWeb3.io](https://learnweb3.io/) - 也是一个 Web3 学习网站
