@@ -1,5 +1,7 @@
 ### 测试网水龙头领取网站
 
+- [Faucet Link](https://faucetlink.to/sepolia)
+
 - [Faucet Trade](https://faucet.trade/sepolia-eth-faucet)
 
 - [Google Cloud](https://cloud.google.com/application/web3/faucet/ethereum/sepolia)

@@ -148,6 +148,7 @@
 
 #### 安全入门
 
+- [Knowledge Base 慢雾超全安全知识库](https://github.com/slowmist/Knowledge-Base)
 - [慢雾区块链安全入门科普](https://github.com/slowmist/Knowledge-Base/blob/master/blockchain_security_study_notes/README.md)
 
 #### 常见合约漏洞及攻击手段
@@ -179,9 +180,9 @@
 
 ---
 
-### 超级推荐的学习网站
+### 推荐的学习网站
 
-- [Hackquest](https://www.hackquest.io/zh-cn) - Web3 技术教育在线学习平台
+- [Hackquest](https://www.hackquest.io/zh-cn) - Web3 技术教育在线学习平台，完成课程学习会有 NFT 奖励
 - [WTF Academy](https://wtf.academy/) - 从 Solidity 基础到进阶的课程
 - [OpenZeppelin](https://docs.openzeppelin.com/contracts/4.x/)
 - [Smart Contract Engineer](https://www.smartcontract.engineer/)
@@ -221,7 +222,7 @@
 
 ### 项目调研及数据分析网站推荐
 
-- [CoinGlass 爆仓数据（Liquidation Data）](https://www.coinglass.com/zh/LiquidationData) - 聚焦加密期货市场的爆仓可视化工具，有助于分析市场极端波动和潜在风险
+- [CoinGlass 爆仓数据（Liquidation Data）](https://www.coinglass.com/zh/LiquidationData) - 聚焦加密期货市场的实时爆仓可视化工具，有助于分析市场极端波动和潜在风险
 - [CoinMarketCap](https://coinmarketcap.com/) - 最大的加密货币行情网站，提供代币价格、交易量、排名等数据
 - [CoinGecko](https://www.coingecko.com/) - 全球知名的加密货币行情网站，支持多链数据与代币信息查询
 - [CoinCarp](https://www.coincarp.com/zh/) - 综合性行情与代币信息网站，支持多语言和全球数据查询
